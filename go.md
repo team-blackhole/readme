@@ -1,5 +1,9 @@
 # Go
 
+## Before You Start
+
+- https://www.youtube.com/watch?v=VDaMhtWNSQU&t=2s
+
 ## Syntax & Code Style
 
 - init function; init()
