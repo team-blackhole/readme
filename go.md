@@ -19,6 +19,12 @@ for most of basic usecases, the default `net/http` pkg will be all what u need. 
 
 ## Testing
 
+if u want to stop when got an error, use `t.Fatal(msg)`. If not, use `t.Error(msg)`.
+
+- Table driven tests
+  - let u manage many testcases easily
+  - ref: https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
+
 The default pkg, `testing` alr includes all features you need. Belows make things a bit easier, but there's no need to try to use them.
 
 - `testify/assert`
