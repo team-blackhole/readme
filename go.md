@@ -2,7 +2,7 @@
 
 ## HTTP
 
-for most of basic usecases, the default `net/http` pkg will be all what u need. no need for searching around and try any web frameworks for Golang.
+for most of basic usecases, the default `net/http` pkg will be all what u need. no need for searching around and trying any web frameworks for Golang.
 
 ### http server
 
