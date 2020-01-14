@@ -26,6 +26,11 @@
   - **특히 JSON Parsing용 구조체를 만들 때 많이 하는 실수**
     - Don't make field names begin with a lowercase letter.
 
+- `log.Fatal` with deferred functions
+  - Don't use `log.Fatal` when a deferred function must run
+  - alternatively, use `log.Panic`
+  - ref : https://stackoverflow.com/a/17888654
+
 ## CI
 
 Gophers usually use Makefile to manage build processes.
