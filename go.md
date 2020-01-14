@@ -12,6 +12,12 @@
 - OOP
   - Is Go object-orientied?: https://flaviocopes.com/golang-is-go-object-oriented/
 
+- Recommended project structure
+  - https://github.com/golang-standards/project-layout
+
+- Pkg style guide
+  - https://rakyll.org/style-packages/
+
 ## CI
 
 Gophers usually use Makefile to manage build processes.
@@ -59,3 +65,13 @@ The default pkg, `testing` alr includes all features you need. Belows make thing
 
 - `httpmock`
   - https://github.com/jarcoal/httpmock
+  
+## Good Articles
+
+- porting from Java to Go
+  - https://blog.kowalczyk.info/article/19f2fe97f06a47c3b1f118fd06851fad/lessons-learned-porting-50k-loc-from-java-to-go.html
+
+## Famous Packages (for ref)
+
+- go ethereum
+  - https://github.com/ethereum/go-ethereum
