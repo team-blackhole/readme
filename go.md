@@ -1,5 +1,7 @@
 # Go
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJvEIjRBSDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Before You Start
 
 - https://www.youtube.com/watch?v=VDaMhtWNSQU&t=2s
