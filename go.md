@@ -6,6 +6,19 @@
   - init func is not highly recommended cos it makes global states.
   - what's this?: https://tutorialedge.net/golang/the-go-init-function/
 
+- about interface and global state
+  - https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html
+
+- OOP
+  - Is Go object-orientied?: https://flaviocopes.com/golang-is-go-object-oriented/
+
+## CI
+
+Gophers usually use Makefile to manage build processes.
+
+- Makefile
+  - https://kodfabrik.com/journal/a-good-makefile-for-go/?fbclid=IwAR25fSZWbT9Ij0OoJOlm8lAOGyUMN06Olmr79pgGzS9OWYNFG54TcGlG0c0
+
 ## HTTP
 
 for most of basic usecases, the default `net/http` pkg will be all what u need. no need for searching around and trying any web frameworks for Golang.
