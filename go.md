@@ -18,6 +18,13 @@
 - Pkg style guide
   - https://rakyll.org/style-packages/
 
+## Common Mistakes
+
+- JSON model: Don't make field names begin with a lowercase letter.
+  - Basic concepts of capsulisation in Golang: https://yourbasic.org/golang/public-private/
+  - 패키지 밖에서 사용하는 struct의 field name은 대문자로 시작해야 함.
+  - ⚠️ **특히 JSON Parsing용 구조체를 만들 때 많이 하는 실수**
+
 ## CI
 
 Gophers usually use Makefile to manage build processes.
