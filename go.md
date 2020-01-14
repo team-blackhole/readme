@@ -1,6 +1,6 @@
 # Go
 
-![Image of Golang](https://www.vertica.com/wp-content/uploads/2019/07/Golang.png | width=200)
+<img src="https://www.vertica.com/wp-content/uploads/2019/07/Golang.png" width="100">
 
 - Write in Go
   - https://youtu.be/LJvEIjRBSDA
