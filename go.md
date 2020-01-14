@@ -1,6 +1,6 @@
-# Go
-
 <img src="https://www.vertica.com/wp-content/uploads/2019/07/Golang.png" width="400">
+
+# Go
 
 - Write in Go
   - https://youtu.be/LJvEIjRBSDA
