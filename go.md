@@ -64,7 +64,11 @@ The default pkg, `testing` alr includes all features you need. Belows make thing
 ### mocking http
 
 - `httpmock`
+  - i use this but it's more verbose than `gock`
   - https://github.com/jarcoal/httpmock
+- `gock`
+  - simpler
+  - https://github.com/h2non/gock
   
 ## Good Articles
 
