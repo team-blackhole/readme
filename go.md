@@ -1,6 +1,9 @@
 # Go
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LJvEIjRBSDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Image of Golang](https://www.vertica.com/wp-content/uploads/2019/07/Golang.png)
+
+- Write in Go
+  - https://youtu.be/LJvEIjRBSDA
 
 ## Before You Start
 
