@@ -9,6 +9,11 @@
 
 - https://www.youtube.com/watch?v=VDaMhtWNSQU&t=2s
 
+## Learn Go
+
+- many useful lectures
+  - https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
+
 ## Syntax & Code Style
 
 - init function; init()
