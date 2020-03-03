@@ -32,6 +32,11 @@
 - Pkg style guide
   - https://rakyll.org/style-packages/
 
+## Lint
+
+- https://github.com/golangci/golangci-lint#go
+  - for GoLand: https://github.com/vmware/dispatch/wiki/Configure-GoLand-with-golint
+
 ## Common Mistakes
 
 - Field Name의 공개 범위에 주의
