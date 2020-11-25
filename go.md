@@ -1,18 +1,7 @@
-<img src="https://www.vertica.com/wp-content/uploads/2019/07/Golang.png" width="400">
 
-# Go
+### Common Practices in Go
 
-- Write in Go
-  - https://youtu.be/LJvEIjRBSDA
 
-## Before You Start
-
-- https://www.youtube.com/watch?v=VDaMhtWNSQU&t=2s
-
-## Learn Go
-
-- many useful lectures
-  - https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
 
 ## Syntax & Code Style
 
@@ -111,3 +100,18 @@ The default pkg, `testing` alr includes all features you need. Belows make thing
 
 - go ethereum
   - https://github.com/ethereum/go-ethereum
+ 
+
+## Snippets
+- Double pointer assignment
+```go
+func (p *Person) Connect(conn **Conn) {
+	// func GetConn() (*Conn, error)
+	connPointer, err := GetConn()
+	*conn = connPointer
+}
+```
+- Print formatted struct variables
+```go
+fmt.Printf("%+v\n", yourStruct) // '+' adds field names
+```
